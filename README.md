@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/GeorgeFragkos"><img src="https://github.com/GeorgeFragkos/blob/master/devcard.svg" width="400" alt="George Fragkos's Dev Card"/></a>
+<a href="https://app.daily.dev/GeorgeFragkos"><img src="https://github.com/GeorgeFragkos/GeorgeFragkos/blob/master/devcard.svg" width="400" alt="George Fragkos's Dev Card"/></a>
 
 
 
