@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning -> React js
 
-<div style="margin-left: 30px;">
+<div style="padding-left: 100px;">
 <a href="https://app.daily.dev/GeorgeFragkos"><img src="https://github.com/GeorgeFragkos/GeorgeFragkos/blob/main/devcard.svg" width="350" alt="George Fragkos's Dev Card"/></a>
 </div>
 
